@@ -1,4 +1,4 @@
-# 2019-BAAI-zhuhu-2nd
+# 2019-BAAI-zhihu-2nd
 
 队名：Conquer
 
